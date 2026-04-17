@@ -1,0 +1,14 @@
+# Node.js
+
+# Dependencies
+node_modules/
+
+# Local env files
+.env
+
+# macOS files
+.DS_Store
+
+# Build directories
+/dist
+/build
